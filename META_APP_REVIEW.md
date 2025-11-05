@@ -1,4 +1,4 @@
-# Análise para Meta App Review - Campanha Pronta™
+# Análise para Meta App Review - Tagmage
 
 ## 📋 Checklist de Requisitos do Meta App Review
 

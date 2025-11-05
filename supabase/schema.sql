@@ -1,5 +1,5 @@
 -- ============================================
--- Painel Campanha Pronta™ - Schema SQL
+-- Tagmage - Schema SQL
 -- Supabase Postgres com RLS
 -- ============================================
 
